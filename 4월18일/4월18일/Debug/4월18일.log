@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(4월18일.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  그냥.c
+d:\source\repos\4월18일\4월18일\그냥.c(8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\source\repos\4월18일\4월18일\그냥.c(5): warning C4700: 초기화되지 않은 'x' 지역 변수를 사용했습니다.
+d:\source\repos\4월18일\4월18일\그냥.c(7): warning C4700: 초기화되지 않은 'y' 지역 변수를 사용했습니다.
+그냥.obj : error LNK2019: _printf 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+D:\source\repos\4월18일\Debug\4월19일.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

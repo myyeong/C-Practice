@@ -1,0 +1,6 @@
+﻿card1.obj : error LNK2019: _my_card2 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+card1.obj : error LNK2019: _my_card3 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+card1.obj : error LNK2019: _my_card4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+card1.obj : error LNK2019: _my_card5 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+card1.obj : error LNK2019: _my_res 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\이민영\source\repos\card1\Debug\card1.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.

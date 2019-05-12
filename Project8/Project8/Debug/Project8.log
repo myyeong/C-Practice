@@ -1,0 +1,4 @@
+﻿  역행렬소스.c
+c:\users\이민영\source\repos\project8\project8\역행렬소스.c(8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이민영\source\repos\project8\project8\역행렬소스.c(10): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  Project8.vcxproj -> C:\Users\이민영\source\repos\Project8\Debug\Project8.exe
